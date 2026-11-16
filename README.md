@@ -2,6 +2,8 @@
 <img width="1080" height="1920" alt="RABEL-ad-menus" src="https://github.com/user-attachments/assets/9e2ae657-3aaf-4943-900b-2a3a3e12cc5c" />
 <img width="1080" height="1350" alt="RABEL-ad" src="https://github.com/user-attachments/assets/005d6566-a614-45c8-8c71-ef07ce3f8f83" />
 <img width="1080" height="1920" alt="RABEL-ad-menus" src="https://github.com/user-attachments/assets/c30e2e7e-d7fb-43a2-b70f-c3cc9f1b8284" />
+<img width="1080" height="1350" alt="RABEL-ad-organize" src="https://github.com/user-attachments/assets/75c06d22-cd2d-4eff-a08e-25c1061abfed" />
+
 
 
 Neat glass-style frames for your apps, folders and notes on your Windows desktop.
