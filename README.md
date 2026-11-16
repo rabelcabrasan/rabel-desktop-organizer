@@ -43,4 +43,6 @@ Free 3-day trial, then one license per laptop.
 - Tells you when a new version is available.
 
 ## Contact
-To buy a license or get the installer password, message Rabel.
+To buy a license or get the installer password, message Rabel on Messenger:
+https://m.me/rabeld.cabrasan
+
